@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowsik%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20ML%20%C2%B7%20GenAI%20%C2%B7%20Computer%20Vision&descAlignY=62&descSize=16" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowsik%20N&fontSize=42&fontColor=fff&fontAlignY=32&desc=AI%20and%20Data%20Science%20Student%20-%20ML%20GenAI%20Computer%20Vision&descAlignY=62&descSize=16" alt="header banner" />
 
 <!-- 2. TYPING HEADER -->
 <a href="#">
@@ -96,6 +96,8 @@ print(me.motto())
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gowshik2210&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
+
+> **Note:** The shared `github-profile-trophy.vercel.app` instance is currently over its free hosting quota (returns `402 Payment Required` for *all* users right now, not just this profile — I confirmed this by testing it directly). The tag above is left in place; it'll start rendering again automatically once the maintainer's quota resets, no edit needed. If you'd rather have trophies showing immediately, fork [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy), deploy your own free Vercel instance from the fork, and swap in your own deployment domain.
 
 <br/>
 
